@@ -19,4 +19,4 @@
 | [最強のハーフアンドハーフ](./natsuno_recipe1.md) | 夏野旬菜 |
 | [自炊3日目ピザ](./bbd_recipe2.md) | B.B.Driver |
 | [カンブリア紀黎明期の地層から発見された利便性追求情報書類"CPD"(Convenience Pursuit Document)に記された理論をもとに生成されたピザ通称ベビースターエッグチーズピザ](./natsuno_recipe2.md) | 夏野旬菜 |
-| [中華風ピザ](./range_resipe.md) | 鍋箸れんげ |
+| [中華風ピザ](./range_recipe.md) | 鍋箸れんげ |
